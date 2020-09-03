@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📫 Where to find me
+- [Facebook](https://facebook.com/stephenajulu) 😏
+- [Twitter](https://twitter.com/stephenajulu) 🐤
+- [Instagram](https://instagram.com/stephenajulu) 😎
+- [Soundcloud](https://soundcloud.com/magpus) 😄
+
+[![Supruim's github stats](https://github-readme-stats.vercel.app/api?username=supruim)](https://github.com/supruim/github-readme-stats)
