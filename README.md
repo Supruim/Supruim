@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/stephenajulu) 🐤
 - [Instagram](https://instagram.com/stephenajulu) 😎
 - [Soundcloud](https://soundcloud.com/magpus) 😄
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Supruim's github stats](https://github-readme-stats.vercel.app/api?username=supruim)](https://github.com/supruim/github-readme-stats)
