@@ -13,4 +13,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supruim)](https://github.com/anuraghazra/github-readme-stats)
-[![Supruim's github stats](https://github-readme-stats.vercel.app/api?username=supruim)](https://github.com/supruim/github-readme-stats)
+[![Supruim's github stats](https://github-readme-stats.vercel.app/api?username=supruim)](https://github.com/supruim/github-readme-stats&count_private=true)
