@@ -7,7 +7,7 @@
 - ⚡ Fun fact: what's cheese that isn't yours... nacho cheese.
 
 ### 📫 Where to find me
-- [Instagram](https://instagram.com/janoskraassenberg) 
+
 - [Soundcloud](https://soundcloud.com/riddthem) 
 - [Twitter](https://twitter.com/supruim) 
 
