@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Supruim/Supruim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning to type with 10 fingers
+- 🌱 I’m currently learning python and Ansible
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: supruim@protonmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: what's cheese that isn't yours... nacho cheese.
+
 ### 📫 Where to find me
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [Soundcloud](https://soundcloud.com/magpus) 😄
+- [Instagram](https://instagram.com/janoskraassenberg) 😎
+- [Soundcloud](https://soundcloud.com/riddthem) 😄
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supruim)](https://github.com/anuraghazra/github-readme-stats)
