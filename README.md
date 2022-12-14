@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning python and Ansible
+- 🌱 I’m currently learning python and data science
 - 📫 How to reach me: supruim@protonmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: what's cheese that isn't yours... nacho cheese.
