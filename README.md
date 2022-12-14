@@ -9,7 +9,7 @@
 ### 📫 Where to find me
 
 - [Soundcloud](https://soundcloud.com/riddthem) 
-- [Twitter](https://twitter.com/supruim) 
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supruim)
