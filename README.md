@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning python and data science
+- 🌱 I’m currently learning python and data engineering
+- 📊 Learning on Datacamp
 - 📫 How to reach me: supruim@protonmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: what's cheese that isn't yours... nacho cheese.
 
 ### 📫 Where to find me
 
-- [Soundcloud](https://soundcloud.com/riddthem) 
+- [Soundcloud](https://soundcloud.com/natrium) 
 
 
 
